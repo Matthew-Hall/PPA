@@ -1,11 +1,11 @@
-![alt text](https://github.com/Matthew-Hall/PPA/raw/master/PewPewAsteroid/Assets/SplashScreen.scale-200.png)
+![alt text](https://github.com/Matthew-Hall/PPA/raw/master/PewPewAsteroid/Demo/SplashScreen.scale-200.png)
 
 # Pew Pew Asteroid
 It's a space shooter written in C#. Game is in the early development stages. 
 
 This is what it looked like as of version 0.5.0
 
-![alt text](https://github.com/Matthew-Hall/PPA/raw/master/PewPewAsteroid/Assets/imgo.jpg)
+![alt text](https://github.com/Matthew-Hall/PPA/raw/master/PewPewAsteroid/Demo/imgo.jpg)
 
 # Support
 Currently touch, gamepad, keyboard, and mouse support is available.

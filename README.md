@@ -16,7 +16,8 @@ Minimum Requirements:
 - 2GB of RAM
 
 # How to Download
-1. Currently you must compile from source.
+1. Clone the repository in GitHub
+2. Run the game from PewPewAsteroid\bin\Windows\x86\Release\PewPewAsteroid.exe
 
 # Having trouble running the game?
 Please add a note on the Issues tab.

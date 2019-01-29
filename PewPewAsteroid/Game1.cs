@@ -85,7 +85,7 @@ namespace SpaceShooter
             // Lasers are going to fire rapid
             lasers = new List<Weapon>();
             const float SECONDS_IN_MINUTE = 60f;
-            const float RATE_OF_FIRE = 200f;
+            const float RATE_OF_FIRE = 300f;
             laserSpawnTime = TimeSpan.FromSeconds(SECONDS_IN_MINUTE / RATE_OF_FIRE);
             base.Initialize();
         }

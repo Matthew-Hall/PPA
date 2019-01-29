@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Programs/C#/MonoGame/PewPewAsteroid/SpaceShooter/PewPewAsteroid/Content/Graphics/asteroids1.png</File>
+    <File>D:/Programs/C#/MonoGame/PewPewAsteroid/SpaceShooter/PewPewAsteroid/Content/Graphics/bg1.png</File>
+    <File>D:/Programs/C#/MonoGame/PewPewAsteroid/SpaceShooter/PewPewAsteroid/Content/Graphics/bg2.png</File>
+    <File>D:/Programs/C#/MonoGame/PewPewAsteroid/SpaceShooter/PewPewAsteroid/Content/Graphics/bg3.png</File>
+    <File>D:/Programs/C#/MonoGame/PewPewAsteroid/SpaceShooter/PewPewAsteroid/Content/Graphics/laser.png</File>
+    <File>D:/Programs/C#/MonoGame/PewPewAsteroid/SpaceShooter/PewPewAsteroid/Content/Graphics/player1.png</File>
+    <File>D:/Programs/C#/MonoGame/PewPewAsteroid/SpaceShooter/PewPewAsteroid/Content/Score.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Graphics/player.png</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

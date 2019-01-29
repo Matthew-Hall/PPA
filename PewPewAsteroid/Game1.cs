@@ -58,6 +58,7 @@ namespace SpaceShooter
             graphics.PreferredBackBufferWidth = 1280;  // set this value to the desired width of your window
             graphics.PreferredBackBufferHeight = 720;   // set this value to the desired height of your window
             graphics.ApplyChanges();
+            graphics.ToggleFullScreen();
             Content.RootDirectory = "Content";
         }
 
@@ -239,7 +240,7 @@ namespace SpaceShooter
                     player.Position += gesture.Delta;
                 }
                 // touch firing
-                if (gesture.GestureType == GestureType.DoubleTap)
+                if (gesture.GestureType == GestureType.Tap)
                 {
                     FireLaser(gameTime);
                 }
